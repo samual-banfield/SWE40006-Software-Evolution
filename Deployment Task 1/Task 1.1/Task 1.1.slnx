@@ -6,8 +6,8 @@
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
   </Folder>
-  <Project Path="SampleApp/SampleApp.csproj" />
-  <Project Path="SampleAppSetup/SampleAppSetup.wixproj">
+  <Project Path="SampleApp/SampleApp.csproj" Id="3f5f837c-057b-47f7-9d7b-ff51c60448d4" />
+  <Project Path="SampleAppSetup/SampleAppSetup.wixproj" Id="d4c88385-5248-4ea8-91c0-95718408a19f">
     <Platform Project="x86" />
     <Build />
   </Project>
