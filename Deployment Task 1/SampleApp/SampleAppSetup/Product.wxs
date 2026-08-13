@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="SampleAppSetup" Language="1033" Version="1.0.0.0" Manufacturer="SamB-102560056" UpgradeCode="f46ea4a0-03ba-4c4d-b590-2583fec49fc5">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate />
+
+		<Feature Id="ProductFeature" Title="SampleAppSetup" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="SampleAppSetup" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			 <Component Id="ProductComponent" Guid="FE8D0918-894A-4139-B404-BEE2B6712598">
+				 <File Id="SampleAppEXE" Source="$(var.SampleApp.TargetPath)" KeyPath="yes" />
+			 </Component> 
+		</ComponentGroup>
+	</Fragment>
+</Wix>

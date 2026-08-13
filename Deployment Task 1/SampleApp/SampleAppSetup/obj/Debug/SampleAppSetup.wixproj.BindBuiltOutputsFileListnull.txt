@@ -1,0 +1,3 @@
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deployment Task 1\SampleApp\SampleAppSetup\bin\Debug\cab1.cab
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deployment Task 1\SampleApp\SampleAppSetup\bin\Debug\SampleAppSetup.msi
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deployment Task 1\SampleApp\SampleAppSetup\bin\Debug\SampleAppSetup.wixpdb
