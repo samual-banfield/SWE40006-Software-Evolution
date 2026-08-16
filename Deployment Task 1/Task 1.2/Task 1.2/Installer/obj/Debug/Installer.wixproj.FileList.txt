@@ -1,0 +1,7 @@
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deployment Task 1\Task 1.2\Task 1.2\Installer\bin\Debug\Installer.msi
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deployment Task 1\Task 1.2\Task 1.2\Installer\bin\Debug\Installer.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\Installer.wixproj.BindContentsFileListnull.txt
+obj\Debug\Installer.wixproj.BindOutputsFileListnull.txt
+obj\Debug\Installer.wixproj.BindBuiltOutputsFileListnull.txt
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deployment Task 1\Task 1.2\Task 1.2\Installer\bin\Debug\cab1.cab

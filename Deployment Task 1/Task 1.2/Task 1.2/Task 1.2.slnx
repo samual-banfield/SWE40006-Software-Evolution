@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ConsoleApplication1/ConsoleApplication1.vcxproj" />
+  <Project Path="Installer/Installer.wixproj">
+    <Platform Project="x86" />
+    <Build />
+  </Project>
+</Solution>
