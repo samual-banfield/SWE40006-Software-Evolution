@@ -4,7 +4,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="ConsoleApplication1/ConsoleApplication1.vcxproj" />
-  <Project Path="Installer/Installer.wixproj">
+  <Project Path="Installer/Installer.wixproj" Id="09fd3dcf-1015-4727-99cd-4205b45c0d0c">
     <Platform Project="x86" />
     <Build />
   </Project>
