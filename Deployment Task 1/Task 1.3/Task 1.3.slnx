@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ClickInstaller/ClickInstaller.wixproj">
+    <Platform Project="x86" />
+    <Build />
+  </Project>
+  <Project Path="Task 1.3/Task 1.3.csproj" />
+</Solution>
