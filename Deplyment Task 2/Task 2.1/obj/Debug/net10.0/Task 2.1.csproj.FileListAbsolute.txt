@@ -1,0 +1,99 @@
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\bin\Debug\net10.0\appsettings.json
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\bin\Debug\net10.0\Task 2.1.staticwebassets.runtime.json
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\bin\Debug\net10.0\Task 2.1.staticwebassets.endpoints.json
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\bin\Debug\net10.0\Task 2.1.exe
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\bin\Debug\net10.0\Task 2.1.deps.json
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\bin\Debug\net10.0\Task 2.1.runtimeconfig.json
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\bin\Debug\net10.0\Task 2.1.dll
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\bin\Debug\net10.0\Task 2.1.pdb
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\Task 2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\Task 2.1.AssemblyInfoInputs.cache
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\Task 2.1.AssemblyInfo.cs
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\Task 2.1.csproj.CoreCompileInputs.cache
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\Task 2.1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\Task 2.1.RazorAssemblyInfo.cache
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\Task 2.1.RazorAssemblyInfo.cs
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\Task 2.1.sourcelink.json
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\scopedcss\bundle\Task 2.1.styles.css
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\scopedcss\projectbundle\Task 2.1.bundle.scp.css
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\m2u9p1bgj0-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\u4ydvoyogf-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\xb7d3bqn62-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\2zw8d797z6-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\nh1kbpn6oi-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\ewwrr1czqh-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\phl0efno80-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\11pn35smuz-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\qqe1tq0fvt-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\p1tbjk9ct0-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\5jijszjgr3-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\c5c28fd884-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\238g83bmj8-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\qii442x2i9-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\rgcdgr1eg5-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\rf1j5l6qqi-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\vav4lyhpda-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\9sdmh26egz-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\ju1uf4v01d-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\9z8e6u8yh2-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\e90eadki45-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\vzh5lzj28w-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\4lauremq16-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\jwh5w30m2m-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\ayzf20hact-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\t9k9qirqsr-{0}-06098lyss8-06098lyss8.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\kywwcl0t2x-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\sm7v8ktnpn-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\26w55jpj0l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\w5uvofhcbw-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\fk7vjowuv9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\5de4l69gg3-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\lnqyqjfek3-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\v50psrt3mm-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\8w0lkio9mj-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\83o6bahbbc-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\2shzsoae55-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\qa99dhgw2i-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\7lhqjfvk8a-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\tci5evf2x5-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\8ws0ok3t7c-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\tjivftu8vl-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\0n6ocaop1f-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\pzk48yhu8g-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\9u95qrlk5d-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\dale23t784-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\1rc84tcm56-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\8opn5ex9d4-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\e0zp2h6hia-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\1hano3poyr-{0}-356vix0kms-356vix0kms.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\t8rdz5hbjr-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\srr3stttj5-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\8l2ziqsfbh-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\mg21eahtq5-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\i0kadb21cg-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\j3cumwncla-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\mixjm81zwb-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\34606716ae-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\ico44ympi6-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\7mkwh8wj1w-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\s1gl7x9dgk-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\noi1mwr75t-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\ja42psjwr3-{0}-ugys5o5hap-ugys5o5hap.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\compressed\gkgdheasu5-{0}-ugys5o5hap-ugys5o5hap.gz
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\Task 2.1.dll
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\refint\Task 2.1.dll
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\Task 2.1.pdb
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\Task 2.1.genruntimeconfig.cache
+C:\Users\zammy\source\repos\SWE40006-Software-Evolution\Deplyment Task 2\Task 2.1\obj\Debug\net10.0\ref\Task 2.1.dll

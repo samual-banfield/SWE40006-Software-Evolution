@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Deployment Task 2.1 Complete!</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .rainbow-text {
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 3vw;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .rainbow-text span {
+    display: inline-block;
+    animation: wave 1.8s ease-in-out infinite, colorcycle 3.5s linear infinite;
+  }
+
+  @@keyframes wave {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-18px); }
+  }
+
+  @@keyframes colorcycle {
+    0%   { color: #ff0000; }
+    16%  { color: #ff8000; }
+    33%  { color: #ffee00; }
+    50%  { color: #00ff40; }
+    66%  { color: #00b7ff; }
+    83%  { color: #7a00ff; }
+    100% { color: #ff0000; }
+  }
+</style>
+</head>
+<body>
+  <div class="rainbow-text" id="text"></div>
+
+  <script>
+    const message = "Deployment Task 2.1 Complete!";
+    const container = document.getElementById("text");
+    const waveDelayStep = 0.08;
+    const colorDelayStep = 0.12;
+
+    [...message].forEach((ch, i) => {
+      const span = document.createElement("span");
+      span.textContent = ch === " " ? " " : ch;
+      span.style.animationDelay =
+        (i * waveDelayStep) + "s, " + (i * colorDelayStep) + "s";
+      container.appendChild(span);
+    });
+  </script>
+</body>
+</html>
