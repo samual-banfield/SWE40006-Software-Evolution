@@ -2,28 +2,15 @@
     ViewData["Title"] = "Home Page";
 }
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Deployment Task 2.1 Complete!</title>
-<style>
-  html, body {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    background: #ffffff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-  }
+<div class="rainbow-text" id="text"></div>
 
+<style>
   .rainbow-text {
     font-family: "Segoe UI", Arial, sans-serif;
     font-size: 3vw;
     font-weight: 700;
     white-space: nowrap;
+    text-align: center;
   }
 
   .rainbow-text span {
@@ -46,23 +33,18 @@
     100% { color: #ff0000; }
   }
 </style>
-</head>
-<body>
-  <div class="rainbow-text" id="text"></div>
 
-  <script>
-    const message = "Deployment Task 2.1 Complete!";
+<script>
+    const message = "@ViewData["HomePageMessage"]";
     const container = document.getElementById("text");
     const waveDelayStep = 0.08;
     const colorDelayStep = 0.12;
 
     [...message].forEach((ch, i) => {
       const span = document.createElement("span");
-      span.textContent = ch === " " ? " " : ch;
+      span.textContent = ch === " " ? " " : ch;
       span.style.animationDelay =
         (i * waveDelayStep) + "s, " + (i * colorDelayStep) + "s";
       container.appendChild(span);
     });
-  </script>
-</body>
-</html>
+</script>

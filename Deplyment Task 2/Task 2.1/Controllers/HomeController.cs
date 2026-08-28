@@ -6,8 +6,16 @@ namespace Task_2._1.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly IConfiguration _config;
+
+        public HomeController(IConfiguration config)
+        {
+            _config = config;
+        }
+
         public IActionResult Index()
         {
+            ViewData["HomePageMessage"] = _config["AppSettings:HomePageMessage"];
             return View();
         }
 
